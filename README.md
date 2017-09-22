@@ -1,5 +1,5 @@
 # Asus ROG GL552JX Laptop Patches
-Clover and DSDT patches for for macOS Sierra 10.12.4+
+Clover and DSDT patches for macOS Sierra 10.12.4+
 
 ----------
 
