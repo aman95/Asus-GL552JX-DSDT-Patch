@@ -210,6 +210,7 @@
 			<string>SSDT-LPC.aml</string>
 			<string>SSDT-PNLF.aml</string>
 			<string>SSDT-CX20752.aml</string>
+			<string>SSDT-UIAC.aml</string>
 		</array>
 	</dict>
 	<key>Boot</key>
